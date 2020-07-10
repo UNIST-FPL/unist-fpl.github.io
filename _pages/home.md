@@ -9,8 +9,9 @@ header:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-  Fusion and Plasma application research Laboratory <br />
-  <small>Simulation code development / High performance computing / Plasma kinetic theory</small>
+  Fusion and Plasma application research Laboratory <br /> <br />
+  <small>Simulation code development / High performance computing</small> <br /> 
+  <small>Automatic mesh generation / Plasma kinetic theory</small>
 feature_row:
   - image_path:  /assets/images/mm-customizable-feature.png
     alt: "customizable"
