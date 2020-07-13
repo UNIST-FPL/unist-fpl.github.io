@@ -7,12 +7,10 @@ permalink: /people/
 
 # Professor
 
-<!--**<span style="font-family:Papyrus; font-size:1.5em;">Sangil Choi</span>** -->
-## <U>E.S.(Eisung) Yoon</U>
-<!-- ![image-left](/assets/images/FPL_Logo_LogoOnly.png){: .align-left} -->
-![image-left](/assets/images/favicon/android-chrome-384x384.png){: .align-left}
+## <U>Eisung Yoon</U>
+<!-- ![image-left](/assets/images/ESYoon-picture-20200712-square.jpg){: .align-left} -->
+<img src="../assets/images/ESYoon-picture-20200712-square.jpg" align="left" hspace="50" vspace="50" width="400"/>
 
-<br />
 * **2018 ~ Now** Assistant professor, school of Mechanical, Aerospace, and Nuclear Engineering, UNIST, Ulsan, Republic of Korea
 * **2015 ~ 2018** Computational Scientist (staff), Scientific Computation Research Center(SCOREC), Rensselaer Polytechnic Institute, Troy, NY, USA
 * **2014 ~ 2015** Senior Researcher, Korea Institute of Nuclear Safety, DaeJeon, Republic of Korea
@@ -33,6 +31,10 @@ permalink: /people/
 # Ph.D. Program in Collaboration
 
 ## <U>Wonjun Tae</U> (Jun. 2018 ~ Now)
+* in [CPL](http://cpl.unist.ac.kr/), Department of Physics, UNIST
+
+## <U>Geon Kim</U> (Mar. 2019 ~ Now)
+* in [URANUM](https://sites.google.com/view/uranum), Department of Nuclear Engineering, UNIST
 
 ----
 
@@ -41,6 +43,8 @@ permalink: /people/
 ## <U>Seungbin Yoon</U> (Mar. 2019 ~ Now)
 
 ## <U>Dongkyu Kim</U> (Sep. 2019 ~ Now)
+
+## <U>Jisun Kim</U> (Mar. 2020 ~ Now)
 
 ----
 
