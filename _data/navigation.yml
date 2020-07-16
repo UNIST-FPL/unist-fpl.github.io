@@ -8,7 +8,5 @@ main:
      url: /publications/
    - title: "News & Events"
      url: /news_events/
-   - title: "Contact"
-     url: /contact/
    - title: "Links"
      url: /links/

@@ -269,11 +269,6 @@ compress_html:
     envs: development
 
 
-## ESY mod
-## Collections
-#collections:
-#        - people
-
 # Defaults
 defaults:
   # _posts
