@@ -1,5 +1,6 @@
 ---
 layout: single
+title: 
 classes: wide 
 permalink: /people/
 sidebar:
