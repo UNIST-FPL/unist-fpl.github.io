@@ -1,15 +1,16 @@
 ---
-layout: splash
+layout: single
 classes: wide 
-title: "People"
 permalink: /people/
+sidebar:
+  nav: "people"
 ---
 
 # Professor
 
 ## <U>Eisung Yoon</U>
 <!-- ![image-left](/assets/images/ESYoon-picture-20200712-square.jpg){: .align-left} -->
-<img src="../assets/images/ESYoon-picture-20200712-square.jpg" align="left" hspace="50" vspace="50" width="400"/>
+<img src="../assets/images/ESYoon-picture-20200712-square.jpg" align="left" hspace="50" vspace="60" width="400"/>
 
 * **2018 ~ Now** Assistant professor, school of Mechanical, Aerospace, and Nuclear Engineering, UNIST, Ulsan, Republic of Korea
 * **2015 ~ 2018** Computational Scientist (staff), Scientific Computation Research Center(SCOREC), Rensselaer Polytechnic Institute, Troy, NY, USA
@@ -22,7 +23,7 @@ permalink: /people/
 
 ----
  
-# Combined M.S.-Ph.D. Program
+# Combined M.E.-Ph.D. Program
 
 ## <U>Jae Yun Park</U> (Dec. 2018 ~ Now)
 
