@@ -9,7 +9,7 @@ header:
       url: /apply/
 excerpt: >
   Fusion and Plasma application research Laboratory <br /> <br />
-  <small>Fusion and Plasma application research Laboratory aims at resolving various problems facing in successful nuclear fusion experiments and commercialization through plasma simulator development and simulations.</small> <br /> 
+  <small>We aim at resolving various problems facing successful nuclear fusion experiments and commercialization through plasma simulator development and simulations.</small> <br /> 
   <small>For more details of our research, see [Research](/research/). </small> <br />
 ---
 
