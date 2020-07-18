@@ -13,5 +13,10 @@ excerpt: >
   <small>Automatic mesh generation / Plasma kinetic theory</small> <br /> <br />
 ---
 
- Fusion and Plasma Application Research Laboratory aims at resolving various problems for successful nuclear fusion experiments and commercialization through research on multi-scale interaction of plasma behavior. The research includes Eulerian & Lagrangian code development based on Gyrokinetics and MHD (magneto-hydro dynamics), extension and improvement on theories and numerical methods for simulation of long time plasma behavior, code verification & validation, and parallel programming and code optimization to utilize the latest architectures being used in supercomputers. These research subjects allow us to carry out more realistic simulation of plasma behavior in nuclear fusion reactors considering impurities and consequently to clarify and exploit underlying physics of experimental results.
+ Fusion and Plasma application research Laboratory aims at resolving various problems facing in successful nuclear fusion experiments and commercialization through plasma simulator development and simulations.
+ <br />
+
+ For more details of our research, see [Research](/research/) . 
+
+<!--- The research includes Eulerian & Lagrangian code development based on Gyrokinetics and MHD (magneto-hydro dynamics), extension and improvement on theories and numerical methods for simulation of long time plasma behavior, code verification & validation, and parallel programming and code optimization to utilize the latest architectures being used in supercomputers. These research subjects allow us to carry out more realistic simulation of plasma behavior in nuclear fusion reactors considering impurities and consequently to clarify and exploit underlying physics of experimental results. --->
 
