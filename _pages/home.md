@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#324dad" # "#5e616c"
   actions:
-    - label: "Apply Ph.D./M.E./Internship programs"
+    - label: "Click to apply Ph.D./M.E./Internship programs"
       url: /apply/
 excerpt: >
   Fusion and Plasma application research Laboratory <br /> <br />
