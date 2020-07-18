@@ -24,7 +24,7 @@ description              : "Intro to FPL and its members"
 url                      : "https://fpl-unist.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/FPL_Logo_LogoOnly.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/favicon/android-chrome-384x384.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/FPL_Logo_LogoOnly.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Fusion and Plasma application research Laboratory"
-  avatar           : "/assets/images/FPL_Logo_LogoOnly.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Toward commercial fusion reactors"
+  avatar           : "/assets/images/favicon/android-chrome-384x384.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Theory & simulation of plasma turbulence<br>/High performance computing<br>/Automatic mesh generation"
   location         : "Bldg. 112 Rm. 502 & 503, UNIST"
   email            :
   links:
