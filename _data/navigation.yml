@@ -17,11 +17,6 @@ people:
      children:
         - title: Eisung Yoon ('18)
           url: /people/#eisung-yoon
-   - title: Combined M.E.-Ph.D. cand.
-     url: /people/#combined-me-phd-program 
-     children:
-        - title: Jae Yun Park ('18)
-          url: /people/#jae-yun-park-dec-2018--now
    - title: Ph.D. Program in Collaboration
      url: /people/#phd-program-in-collaboration 
      children:
@@ -32,12 +27,8 @@ people:
    - title: Interns
      url: /people/#interns-undergraduates
      children:
-        - title: Seungbin Yoon ('19)
-          url: /people/#seungbin-yoon-mar-2019--now
         - title: Dongkyu Kim ('19)
           url: /people/#dongkyu-kim-sep-2019--now 
-        - title: Jisun Kim ('20)
-          url: /people/#jisun-kim-mar-2020--now 
    - title: Alumni
      url: /people/#alumni 
      children:

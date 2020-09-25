@@ -24,12 +24,6 @@ sidebar:
 
 ----
  
-# Combined M.E.-Ph.D. Program
-
-## <U>Jae Yun Park</U> (Dec. 2018 ~ Now)
-
-----
-
 # Ph.D. Program in Collaboration
 
 ## <U>Wonjun Tae</U> (Jun. 2018 ~ Now)
@@ -42,11 +36,8 @@ sidebar:
 
 # Interns (Undergraduates)
 
-## <U>Seungbin Yoon</U> (Mar. 2019 ~ Now)
-
 ## <U>Dongkyu Kim</U> (Sep. 2019 ~ Now)
-
-## <U>Jisun Kim</U> (Mar. 2020 ~ Now)
+* To be in combined MS-Ph.D. Program from Spring 2021
 
 ----
 
