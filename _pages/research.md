@@ -24,6 +24,7 @@ date: 2020-07-18T12:42:00+09:00
 * Research fund granted by National Research Foundation of Korea
 
 ### Multi-Scale Simulation Code Development for the Long-term Safety Management of Spent Nuclear Fuel Pool
+<img src="../assets/images/FPL-SPF.png" align="center" hspace="50" vspace="30" width="800"/>
 * Research fund granted by National Research Foundation of Korea
 
 ### Turbulence spreading over Magnetic Island 
