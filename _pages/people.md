@@ -22,6 +22,13 @@ sidebar:
 * **MA**(Feb. 2006) **Seoul National University**,  Seoul, Republic of Korea
 * **BA**(Feb. 2004) **Seoul National University**,  Seoul, Republic of Korea
 
+---
+
+# Ph.D. Program 
+
+## <U>Dongkyu Kim</U> (Mar. 2021 ~ Now)
+* (Sep. 2019 ~ Feb. 2021) An undergraduate intern  in this FPL lab
+
 ----
  
 # Ph.D. Program in Collaboration
@@ -36,8 +43,7 @@ sidebar:
 
 # Interns (Undergraduates)
 
-## <U>Dongkyu Kim</U> (Sep. 2019 ~ Now)
-* To be in combined MS-Ph.D. Program from Spring 2021
+## <U>SeungWan Kang</U> (Mar. 2021 ~ Now)
 
 ----
 
