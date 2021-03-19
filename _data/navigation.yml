@@ -17,8 +17,13 @@ people:
      children:
         - title: Eisung Yoon ('18)
           url: /people/#eisung-yoon
+   - title: Ph.D. Program
+     url: /people/#phd-program
+     children:
+        - title: Dongkyu Kim ('19)
+          url: /people/#dongkyu-kim-mar-2021--now
    - title: Ph.D. Program in Collaboration
-     url: /people/#phd-program-in-collaboration 
+     url: /people/#phd-program-in-collaboration
      children:
         - title: Wonjun Tae ('18)
           url: /people/#wonjun-tae-jun-2018--now
@@ -27,10 +32,10 @@ people:
    - title: Interns
      url: /people/#interns-undergraduates
      children:
-        - title: Dongkyu Kim ('19)
-          url: /people/#dongkyu-kim-sep-2019--now 
+        - title: Seungwan Kang ('21)
+          url: /people/#seungwan-kang-mar-2021--now
    - title: Alumni
-     url: /people/#alumni 
+     url: /people/#alumni
      children:
         - title: Sangil Choi ('19)
-          url: /people/#sangil-choi 
+          url: /people/#sangil-choi
