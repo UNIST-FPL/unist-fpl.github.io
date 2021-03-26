@@ -3,7 +3,8 @@ layout: single
 title: "Links"
 classes: wide
 permalink: /links/
-date: 2020-07-18T12:37:00+09:00
 ---
 
+[Department of Nuclear Engineering @ UNIST](https://nuclear.unist.ac.kr)
+  - [Faculty](https://nuclear.unist.ac.kr/people/faculty_school/)
 
