@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "in Department of Nuclear Engineering, UNIST" # site tagline that appears below site title in masthead
 name                     : "Fusion and Plasma application research Laboratory"
 description              : "Intro to FPL and its members"
-url                      : "https://fpl-unist.github.io"
+url                      : "https://unist-fpl.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/favicon/android-chrome-384x384.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
