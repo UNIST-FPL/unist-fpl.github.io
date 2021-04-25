@@ -34,6 +34,21 @@ people:
      children:
         - title: Seungwan Kang ('21)
           url: /people/#seungwan-kang-mar-2021--now
+   - title: NEUMA (UIRP '21)
+     url: /people/#uirp-2021--neuma-undergraduates-may-2021--
+     children:
+        - title: Jonghoon Byun ('21)
+          url: /people/#jonghoon-byun-sophomore-dep-phys
+        - title: Ji-Seon Kim ('20)
+          url: /people/#ji-seon-kim-senior-dep-nucl-eng
+        - title: Yunhui Kim ('21)
+          url: /people/#yunhui-kim-sophomore-dep-nucl-eng
+        - title: Hyun-Seop Lee ('21)
+          url: /people/#hyun-seop-lee-sophomore-dep-phys
+        - title: Hyungjun Noh ('21)
+          url: /people/#hyungjun-noh-sophomore-dep-phys
+        - title: Chan-Ju Park ('21)
+          url: /people/#chan-ju-park-sophomore-dep-phys
    - title: Alumni
      url: /people/#alumni
      children:

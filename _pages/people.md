@@ -1,7 +1,7 @@
 ---
 layout: single
-title: " " 
-classes: wide 
+title: " "
+classes: wide
 permalink: /people/
 sidebar:
   nav: "people"
@@ -24,13 +24,13 @@ sidebar:
 
 ---
 
-# Ph.D. Program 
+# Ph.D. Program
 
 ## <U>Dongkyu Kim</U> (Mar. 2021 ~ Now)
 * (Sep. 2019 ~ Feb. 2021) An undergraduate intern  in this FPL lab
 
 ----
- 
+
 # Ph.D. Program in Collaboration
 
 ## <U>Wonjun Tae</U> (Jun. 2018 ~ Now)
@@ -47,9 +47,23 @@ sidebar:
 
 ----
 
+# UIRP 2021 : NEUMA (Undergraduates) (May. 2021 ~ )
+
+## <U>Jonghoon Byun</U> (Sophomore, Dep. Phys.)
+
+## <U>Ji-Seon Kim</U> (Senior, Dep. Nucl. Eng.)
+
+## <U>Yunhui Kim</U> (Sophomore, Dep. Nucl. Eng.)
+
+## <U>Hyun-Seop Lee</U> (Sophomore, Dep. Phys.)
+
+## <U>Hyungjun Noh</U> (Sophomore, Dep. Phys.)
+
+## <U>Chan-Ju Park</U> (Sophomore, Dep. Phys.)
+
+----
+
 # Alumni
 
 ## <U>Sangil Choi</U>
 * **Feb. 2019 ~ Feb. 2020** Postdoctoral researcher
-* **Now** working for **Korea Institute of Material Science**, ChangWon, Republic of Korea
-
