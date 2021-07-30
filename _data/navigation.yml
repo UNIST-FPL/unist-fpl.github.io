@@ -21,19 +21,25 @@ people:
      url: /people/#phd-program
      children:
         - title: Dongkyu Kim ('19)
-          url: /people/#dongkyu-kim-mar-2021--now
+          url: /people/#dongkyu-kim-mar-2021--
+        - title: Taeuk Moon ('21)
+          url: /people/#taeuk-moon-jul-2021--
    - title: Ph.D. Program in Collaboration
      url: /people/#phd-program-in-collaboration
      children:
         - title: Wonjun Tae ('18)
-          url: /people/#wonjun-tae-jun-2018--now
+          url: /people/#wonjun-tae-jun-2018--
         - title: Geon Kim ('19)
-          url: /people/#geon-kim-mar-2019--now
+          url: /people/#geon-kim-mar-2019--
    - title: Interns
      url: /people/#interns-undergraduates
      children:
         - title: Seungwan Kang ('21)
-          url: /people/#seungwan-kang-mar-2021--now
+          url: /people/#seungwan-kang-mar-2021--
+        - title: Jisung Oh ('21)
+          url: /people/#jisung-oh-jul-2021--
+        - title: Sungpil Yum ('21)
+          url: /people/#sungpil-yum-jul-2021--
    - title: NEUMA (UIRP '21)
      url: /people/#uirp-2021--neuma-undergraduates-may-2021--
      children:

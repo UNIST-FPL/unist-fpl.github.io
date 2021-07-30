@@ -26,24 +26,31 @@ sidebar:
 
 # Ph.D. Program
 
-## <U>Dongkyu Kim</U> (Mar. 2021 ~ Now)
+## <U>Dongkyu Kim</U> (Mar. 2021 ~ )
 * (Sep. 2019 ~ Feb. 2021) An undergraduate intern  in this FPL lab
+
+## <U>Taeuk Moon</U> (Jul. 2021 ~ )
 
 ----
 
 # Ph.D. Program in Collaboration
 
-## <U>Wonjun Tae</U> (Jun. 2018 ~ Now)
+## <U>Wonjun Tae</U> (Jun. 2018 ~ )
 * in [CPL](http://cpl.unist.ac.kr/), Department of Physics, UNIST
 
-## <U>Geon Kim</U> (Mar. 2019 ~ Now)
+## <U>Geon Kim</U> (Mar. 2019 ~ )
 * in [URANUM](https://sites.google.com/view/uranum), Department of Nuclear Engineering, UNIST
 
 ----
 
 # Interns (Undergraduates)
 
-## <U>SeungWan Kang</U> (Mar. 2021 ~ Now)
+## <U>SeungWan Kang</U> (Mar. 2021 ~ )
+
+## <U>Jisung Oh</U> (Jul. 2021 ~ )
+Under summer internship program by department of nuclear engineering, UNIST
+
+## <U>Sungpil Yum</U> (Jul. 2021 ~ )
 
 ----
 
