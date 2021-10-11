@@ -32,14 +32,12 @@ people:
         - title: Geon Kim ('19)
           url: /people/#geon-kim-mar-2019--
    - title: Interns
-     url: /people/#interns-undergraduates
+     url: /people/#interns
      children:
-        - title: Seungwan Kang ('21)
-          url: /people/#seungwan-kang-mar-2021--
-        - title: Jisung Oh ('21)
-          url: /people/#jisung-oh-jul-2021--
         - title: Sungpil Yum ('21)
           url: /people/#sungpil-yum-jul-2021--
+        - title: Haluk Aksoy ('21)
+          url: /people/#haluk-aksoy-sep-2021--
    - title: NEUMA (UIRP '21)
      url: /people/#uirp-2021--neuma-undergraduates-may-2021--
      children:

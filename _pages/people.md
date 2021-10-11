@@ -27,9 +27,10 @@ sidebar:
 # Ph.D. Program
 
 ## <U>Dongkyu Kim</U> (Mar. 2021 ~ )
-* (Sep. 2019 ~ Feb. 2021) An undergraduate intern  in this FPL lab
+* (2021~) Verification of a nonlinear Fokker-Planck-RMJ collision module
 
 ## <U>Taeuk Moon</U> (Jul. 2021 ~ )
+* (2021~) Investigation of heating modules in GENE
 
 ----
 
@@ -37,20 +38,18 @@ sidebar:
 
 ## <U>Wonjun Tae</U> (Jun. 2018 ~ )
 * in [CPL](http://cpl.unist.ac.kr/), Department of Physics, UNIST
+* (2020~) Magnetic island simulation using GENE
 
 ## <U>Geon Kim</U> (Mar. 2019 ~ )
 * in [URANUM](https://sites.google.com/view/uranum), Department of Nuclear Engineering, UNIST
+* (2019~) Development of a code-package to estimate lifetime of neutron absorbers in spent fuel pool of nuclear power plant
 
 ----
 
-# Interns (Undergraduates)
-
-## <U>SeungWan Kang</U> (Mar. 2021 ~ )
-
-## <U>Jisung Oh</U> (Jul. 2021 ~ )
-Under summer internship program by department of nuclear engineering, UNIST
+# Interns
 
 ## <U>Sungpil Yum</U> (Jul. 2021 ~ )
+## <U>Haluk Aksoy</U> (Sep. 2021 ~ )
 
 ----
 
@@ -74,3 +73,11 @@ Under summer internship program by department of nuclear engineering, UNIST
 
 ## <U>Sangil Choi</U>
 * **Feb. 2019 ~ Feb. 2020** Postdoctoral researcher
+
+----
+
+## Interns in past
+
+### <U>Dongkyu Kim</U> (Sep. 2019 ~ Feb. 2021)
+### <U>SeungWan Kang</U> (Mar. 2021 ~ Sep. 2021)
+### <U>Jisung Oh</U> (Jul. 2021 ~ Sep. 2021: Summer internship )
