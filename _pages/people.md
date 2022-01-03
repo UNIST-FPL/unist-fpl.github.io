@@ -50,6 +50,7 @@ sidebar:
 
 ## <U>Sungpil Yum</U> (Jul. 2021 ~ )
 ## <U>Haluk Aksoy</U> (Sep. 2021 ~ )
+## <U>Seungwan Kang</U> (Jan. 2022 ~ )
 
 ----
 
