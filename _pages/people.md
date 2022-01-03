@@ -48,7 +48,7 @@ sidebar:
 
 # Interns
 
-## <U>Sungpil Yum</U> (Jul. 2021 ~ Feb. 2022)
+## <U>Sungpil Yum</U> (Jul. 2021 ~ )
 ## <U>Haluk Aksoy</U> (Sep. 2021 ~ )
 
 ----
