@@ -80,5 +80,5 @@ sidebar:
 ## Interns in past
 
 ### <U>Dongkyu Kim</U> (Sep. 2019 ~ Feb. 2021)
-### <U>SeungWan Kang</U> (Mar. 2021 ~ Sep. 2021)
+### <U>Seungwan Kang</U> (Mar. 2021 ~ Sep. 2021)
 ### <U>Jisung Oh</U> (Jul. 2021 ~ Sep. 2021: Summer internship )
