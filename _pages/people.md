@@ -32,6 +32,9 @@ sidebar:
 ## <U>Taeuk Moon</U> (Jul. 2021 ~ )
 * (2021~) Investigation of heating modules in GENE
 
+## <U>Sungpil Yum</U> (Mar. 2022 ~ )
+*  
+
 ----
 
 # Ph.D. Program in Collaboration
@@ -48,13 +51,14 @@ sidebar:
 
 # Interns
 
-## <U>Sungpil Yum</U> (Jul. 2021 ~ )
 ## <U>Haluk Aksoy</U> (Sep. 2021 ~ )
 ## <U>Seungwan Kang</U> (Jan. 2022 ~ )
+## <U>Chan-Ju Park</U> (Jan. 2022 ~ )
+## <U>Dami Jung</U> (Mar. 2022 ~ )
 
 ----
 
-# UIRP 2021 : NEUMA (Undergraduates) (May. 2021 ~ )
+# UIRP 2021 : NEUMA (Undergraduates) (May. 2021 ~ Dec. 2021)
 
 ## <U>Jonghoon Byun</U> (Sophomore, Dep. Phys.)
 
@@ -82,3 +86,4 @@ sidebar:
 ### <U>Dongkyu Kim</U> (Sep. 2019 ~ Feb. 2021)
 ### <U>Seungwan Kang</U> (Mar. 2021 ~ Sep. 2021)
 ### <U>Jisung Oh</U> (Jul. 2021 ~ Sep. 2021: Summer internship )
+### <U>Sungpil Yum</U> (Oct. 2021 ~ Feb. 2022)
