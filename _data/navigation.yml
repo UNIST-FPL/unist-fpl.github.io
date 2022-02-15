@@ -24,6 +24,8 @@ people:
           url: /people/#dongkyu-kim-mar-2021--
         - title: Taeuk Moon ('21)
           url: /people/#taeuk-moon-jul-2021--
+        - title: Sungpil Yum ('22)
+          url: /people/#sungpil-yum-mar-2022--
    - title: Ph.D. Program in Collaboration
      url: /people/#phd-program-in-collaboration
      children:
@@ -34,12 +36,14 @@ people:
    - title: Interns
      url: /people/#interns
      children:
-        - title: Sungpil Yum ('21)
-          url: /people/#sungpil-yum-jul-2021--
         - title: Haluk Aksoy ('21)
           url: /people/#haluk-aksoy-sep-2021--
         - title: Seungwan Kang ('22)
-          url: people/#seungwan-kang-jan-2022--
+          url: /people/#seungwan-kang-jan-2022--
+        - title: Chan-Ju Park ('22)
+          url: /people/#chan-ju-park-jan-2022--
+        - title: Dami Jung ('22)
+          url: /people/#dami-jung-mar-2022--
    - title: NEUMA (UIRP '21)
      url: /people/#uirp-2021--neuma-undergraduates-may-2021--
      children:
