@@ -19,4 +19,3 @@ You can find their performance below in Youtube.
 [GUINESS](https://youtu.be/ok39eC8e1nA)
 
 Congratulations!
-
