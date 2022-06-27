@@ -33,7 +33,7 @@ sidebar:
 * (2021~) Investigation of heating modules in GENE
 
 ## <U>Sungpil Yum</U> (Mar. 2022 ~ )
-*  
+* (2022~) Magnetic island simulation / Divertor simulation(IM-CDT)
 
 ----
 
@@ -57,26 +57,28 @@ sidebar:
 
 ----
 
-# UIRP 2021 : NEUMA (Undergraduates) (May. 2021 ~ Dec. 2021)
-
-## <U>Jonghoon Byun</U> (Sophomore, Dep. Phys.)
-
-## <U>Ji-Seon Kim</U> (Senior, Dep. Nucl. Eng.)
-
-## <U>Yunhui Kim</U> (Sophomore, Dep. Nucl. Eng.)
-
-## <U>Hyun-Seop Lee</U> (Sophomore, Dep. Phys.)
-
-## <U>Hyungjun Noh</U> (Sophomore, Dep. Phys.)
-
-## <U>Chan-Ju Park</U> (Sophomore, Dep. Phys.)
-
-----
-
 # Alumni
 
 ## <U>Sangil Choi</U>
 * **Feb. 2019 ~ Feb. 2020** Postdoctoral researcher
+
+## <U>Jonghoon Byun</U>
+* **May. 2021 ~ Dec. 2021** UIRP 2021 : NEUMA(Undergraduates)
+
+## <U>Ji-Seon Kim</U>
+* **May. 2021 ~ Dec. 2021** UIRP 2021 : NEUMA(Undergraduates)
+
+## <U>Yunhui Kim</U>
+* **May. 2021 ~ Dec. 2021** UIRP 2021 : NEUMA(Undergraduates)
+
+## <U>Hyun-Seop Lee</U>
+* **May. 2021 ~ Dec. 2021** UIRP 2021 : NEUMA(Undergraduates)
+
+## <U>Hyungjun Noh</U>
+* **May. 2021 ~ Dec. 2021** UIRP 2021 : NEUMA(Undergraduates)
+
+## <U>Chan-Ju Park</U>
+* **May. 2021 ~ Dec. 2021** UIRP 2021 : NEUMA(Undergraduates)
 
 ----
 
