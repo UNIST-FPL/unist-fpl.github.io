@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Fusion and Plasma application research Laboratory"
-  avatar           : "/assets/images/favicon/android-chrome-384x384.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/FPL_Logo_LogoOnly.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Theory & simulation of plasma turbulence<br>/High performance computing<br>/Automatic mesh generation"
   location         : "Bldg. 112 Rm. 502 & 503, UNIST"
   email            :
