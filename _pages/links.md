@@ -5,7 +5,14 @@ classes: wide
 permalink: /links/
 ---
 
-[Department of Nuclear Engineering @ UNIST](https://nuclear.unist.ac.kr)
-  - [Faculty](https://nuclear.unist.ac.kr/people/faculty_school/)
+## Collaborators
 
-[Fusion and Plasma Dynamics Laboratory](http://fpdl.kaist.ac.kr)
+* [Korea Institute of Fusion Energy](https://www.kfe.re.kr)
+* [Scientific Computation Research Center](https://scorec.rpi.edu)
+* [Fusion and Plasma Dynamics Laboratory @ KAIST](http://fpdl.kaist.ac.kr)
+* [Radiation & Medical Intelligence Laboratory @ UNIST](https://sites.google.com/view/rami-lab/home)
+
+## UNIST
+
+[Department of Nuclear Engineering @ UNIST](https://nuclear.unist.ac.kr) - [Laboratory](https://nuclear.unist.ac.kr/laboratory/)
+
