@@ -10,3 +10,18 @@ We open below resource of educational program supported by [**Haeorum Alliance N
 # Open seminar
 
 # Particle simulations
+
+1. F=ma, ODE Integrator
+2. Simulating a few particles: direct particle-particle interactions
+3. Introduction to kinetic theory
+4. Introduction to Particle-In-Cell (PIC) method
+    5. Initialize
+    6. Scatter/Gather
+    7. Push
+    8. Solve
+9. Exercise: 1D Electrostatic PIC code
+
+## Rerefences
+* C.K. Birdsall and A.B. Langdon, Plasma Physics via Computer Simulation, CRC Press (2004)
+* Toshi Tajima, Computational Plasma Physics: With Applications To Fusion and Astrophysics, CRC Press (2004)
+* R.W. Hockney, and J.W. Eastwood, Computer Simulation Using Particles, CRC Press (1989)
