@@ -8,6 +8,8 @@ sidebar:
   nav: "research"
 ---
 
+Thank you for your interest on our research activities. From the recent academic history, you'll see what we're currently doing.
+
 ## Research topics of our interests
 
 * Physics and simulations of Gyrokinetics and turbulence transport in nuclear fusion
