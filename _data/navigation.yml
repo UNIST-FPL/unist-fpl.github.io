@@ -48,15 +48,31 @@ people:
      url: /people/#alumni
 
 research:
-    - title: Publications
-      url: /research/#publications
     - title: Research of Interests
-      url: /research/#research-of-interests
-    - title: Research Items
-      url: /research/#research-items
+      url: /research/#research-topics-of-our-interests
+    - title: Articles
+      url: /research/#selected-articles
+      children:
+         - title: 2023
+           url: /research/#2023
+         - title: 2022
+           url: /research/#2022
+         - title: 2021
+           url: /research/#2021
+    - title: Conference
+      url: /research/#selected-conference-presentations
+      children:
+         - title: 2023
+           url: /research/#2023-1
+         - title: 2022
+           url: /research/#2022-1
+    - title: Research projects (Ongoing)
+      url: /research/#research-projects-ongoing
+    - title: Research projects (Past)
+      url: /research/#research-projects-past
       children:
          - title: GK code dev.
-           url: /research/#gyrokinetic-code-development
+           url: /research/#gyrokinetic-code-development-gkpsp2
          - title: Magnetic island phys.
            url: /research/#plasma-turbulence-near-magnetic-island
          - title: SFP code dev.

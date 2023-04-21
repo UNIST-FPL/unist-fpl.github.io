@@ -10,6 +10,7 @@ permalink: /links/
 * [Korea Institute of Fusion Energy](https://www.kfe.re.kr)
 * [Scientific Computation Research Center](https://scorec.rpi.edu)
 * [Fusion and Plasma Dynamics Laboratory @ KAIST](http://fpdl.kaist.ac.kr)
+* [Nuclear Fusion & Plasma Computation Laboratory @ HYU](https://nfusion.hanyang.ac.kr/)
 * [Radiation & Medical Intelligence Laboratory @ UNIST](https://sites.google.com/view/rami-lab/home)
 
 ## UNIST
