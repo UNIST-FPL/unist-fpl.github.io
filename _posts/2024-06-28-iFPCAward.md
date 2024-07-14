@@ -5,7 +5,7 @@ categories:
 tags:
   - Yearbook
 header:
-  teaser: "/assets/images/Best_Poster_Award_iFPC.png"
+  teaser: "/assets/images/20240628_151213.jpg"
 ---
 
 ![Best Poster Awards from iFPC2024]({{site.url}}/assets/images/Best_Post_Award_2024iFPC_DamiJung.jpg)
