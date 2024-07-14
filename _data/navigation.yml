@@ -20,30 +20,22 @@ people:
    - title: Ph.D. Program
      url: /people/#phd-program
      children:
-        - title: Dongkyu Kim ('19)
-          url: /people/#dongkyu-kim-mar-2021--
         - title: Taeuk Moon ('21)
           url: /people/#taeuk-moon-jul-2021--
         - title: Sungpil Yum ('22)
           url: /people/#sungpil-yum-mar-2022--
+        - title: Darian Figuera ('23)
+          url: /people/#darian-figuera-feb-27-2023--
    - title: Ph.D. Program in Collaboration
      url: /people/#phd-program-in-collaboration
      children:
         - title: Wonjun Tae ('18)
           url: /people/#wonjun-tae-jun-2018--
-        - title: Geon Kim ('19)
-          url: /people/#geon-kim-mar-2019--
    - title: Interns
      url: /people/#interns
      children:
-        - title: Haluk Aksoy ('21)
-          url: /people/#haluk-aksoy-sep-2021--
-        - title: Hyungjun Noh ('22)
-          url: /people/#hyungjun-noh-jan-2022--
-        - title: Chan-Ju Park ('22)
-          url: /people/#chan-ju-park-jan-2022--
-        - title: Dami Jung ('22)
-          url: /people/#dami-jung-mar-2022--
+        - title: Jinsu Kim ('23)
+          url: /people/#jinsu-kim-sep-2023--
    - title: Alumni
      url: /people/#alumni
 

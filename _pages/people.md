@@ -28,59 +28,71 @@ sidebar:
 
 # Ph.D. Program
 
-## <U>Dongkyu Kim</U> (Mar. 2021 ~ )
-* (2021~) Verification of a nonlinear Fokker-Planck-RMJ collision module
+## <U>Taeuk Moon</U> (Jun. 28, 2021 ~ )
+* 3D realistic code developments using parallel unstructured mesh infrastructure
+* Investigation of heating modules in GENE
 
-## <U>Taeuk Moon</U> (Jul. 2021 ~ )
-* (2021~) Investigation of heating modules in GENE
+## <U>Sungpil Yum</U> (Feb. 28, 2022 ~ )
+* Integrated modeling over core-edge-sol regions (IM-CDT)
+* Magnetic island simulation
 
-## <U>Sungpil Yum</U> (Mar. 2022 ~ )
-* (2022~) Magnetic island simulation / Divertor simulation(IM-CDT)
+## <U>Darian Figuera</U> (Feb. 27, 2023 ~ )
+* Data-driven modeling
+* Automation of fusion reactor design
 
 ----
 
-# Ph.D. Program in Collaboration
+# Ph.D. Program in Collaboration (as a co-advisor)
 
 ## <U>Wonjun Tae</U> (Jun. 2018 ~ )
 * in [CPL](http://cpl.unist.ac.kr/), Department of Physics, UNIST
 * (2020~) Magnetic island simulation using GENE
 
-## <U>Geon Kim</U> (Mar. 2019 ~ )
-* in [URANUM](https://sites.google.com/view/uranum), Department of Nuclear Engineering, UNIST
-* (2019~) Development of a code-package to estimate lifetime of neutron absorbers in spent fuel pool of nuclear power plant
-
 ----
 
 # Interns
 
-## <U>Haluk Aksoy</U> (Sep. 2021 ~ )
-## <U>Hyungjun Noh</U> (Jan. 2022 ~ )
-## <U>Chan-Ju Park</U> (Jan. 2022 ~ )
-## <U>Dami Jung</U> (Mar. 2022 ~ )
+## <U>Jinsu Kim</U> (Sep. 2023 ~ )
 
 ----
 
 # Alumni
 
-## Postdoctor
+## Postdoctor researcher
 ### <U>Sangil Choi</U>
 * **Feb. 2019 ~ Feb. 2020** Postdoctoral researcher
 
+### <U>KyuBeen Kwon</U>
+* **Feb. 2023 ~ Jul. 2023** Postdoctoral researcher
+
+## Ph.D.
+### <U>Geon Kim</U> (Collaborated in Mar. 2019 ~ Feb. 15, 2023)
+* A co-advised student in [URANUM](https://sites.google.com/view/uranum), Department of Nuclear Engineering, UNIST
+* Dissertation: A Safety Analysis Code for Al-B4C Neutron Absorbers Used in Spent Nuclear Fuel Pool
+
+## Master
+### <U>Dongkyu Kim</U> (Mar. 01, 2021 ~ Feb. 15, 2023)
+* Thesis: Nonlinear Fokker-Planck collision operator in Rosenbluth form for gyrokinetic simulations using discontinuous Galerkin method
+
 ----
+
+# UIRP (Undergraduate Research Program)
 
 ## NEUMA (NEUral plasMA, UIRP 2021, May. 2021 ~ Dec. 2021)
-<U>Jonghoon Byun</U> <br>
-<U>Ji-Seon Kim</U> <br>
-<U>Yunhui Kim</U> <br>
-<U>Hyun-Seop Lee</U> <br>
-<U>Hyungjun Noh</U> <br>
-<U>Chan-Ju Park</U> <br>
+Jonghoon Byun, Ji-Seon Kim, Yunhui Kim, Hyun-Seop Lee, Hyungjun Noh, Chan-Ju Park
+
+## DiTTo (Digital Twin Tokamak, UIRP 2023)
+Gitae Kim, Jihye Park, Juhyeok Son
 
 ----
 
-## Interns in past
+## Interns in past (joined from)
 
-<U>Dongkyu Kim</U> (Sep. 2019 ~ Feb. 2021) <br>
-<U>Seungwan Kang</U> (Mar. 2021 ~ Dec. 2021) <br>
-<U>Jisung Oh</U> (Jul. 2021 ~ Sep. 2021: Summer internship ) <br>
-<U>Sungpil Yum</U> (Oct. 2021 ~ Feb. 2022) <br>
+Dongkyu Kim (Sep. 2019)
+,Seungwan Kang (Mar. 2021)
+,Jisung Oh (Jul. 2021)
+,Sungpil Yum (Oct. 2021)
+,Haluk Aksoy (Sep. 2021)
+,Hyungjun Noh (Jan. 2022)
+,Chan-Ju Park (Jan. 2022)
+,Dami Jung (Mar. 2022)
