@@ -179,10 +179,12 @@
 }
 
 .fpl-landing__image-wrap img {
+  display: block;
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: 0 auto;
   object-fit: contain;
+  object-position: center center;
 }
 
 .fpl-landing__research-card figcaption {
