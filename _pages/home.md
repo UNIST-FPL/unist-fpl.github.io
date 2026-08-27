@@ -2,25 +2,60 @@
 layout: splash
 permalink: /
 hidden: true
-header:
-  overlay_color: "#324dad" # "#5e616c"
-  actions:
-    - label: "Click to apply Ph.D./M.E./Internship programs"
-      url: /apply/
-excerpt: >
-  Fusion and Plasma application research Laboratory <br /> <br />
-  <small>We aim at resolving various problems facing successful nuclear fusion experiments and commercialization through plasma simulator development and simulations.</small> <br /> 
-  <small>For more details of our research, see [Research](/research/). </small> <br />
+classes:
+  - fpl-landing-page
+title: "Fusion and Plasma Application Research Laboratory"
+excerpt: "FPL develops simulation tools and conducts research for fusion energy and plasma applications."
 ---
 
-<!--- The research includes Eulerian & Lagrangian code development based on Gyrokinetics and MHD (magneto-hydro dynamics), extension and improvement on theories and numerical methods for simulation of long time plasma behavior, code verification & validation, and parallel programming and code optimization to utilize the latest architectures being used in supercomputers. These research subjects allow us to carry out more realistic simulation of plasma behavior in nuclear fusion reactors considering impurities and consequently to clarify and exploit underlying physics of experimental results. --->
+<main class="fpl-landing" aria-labelledby="fpl-landing-title">
+  <section class="fpl-landing__hero">
+    <img
+      class="fpl-landing__logo"
+      src="{{ '/assets/images/FPL_Logo.png' | relative_url }}"
+      alt="FPL — Fusion and Plasma Application Research Laboratory"
+    />
 
-----
+    <h1 id="fpl-landing-title">Fusion and Plasma Application Research Laboratory</h1>
+    <p class="fpl-landing__intro">
+      We develop simulation tools and conduct research to address key challenges
+      in fusion energy and plasma applications.
+    </p>
 
-## Recent Postings
-<div class="grid__wrapper">
-  {% for post in site.posts limit:4 %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
+    <div class="fpl-landing__actions" aria-label="Website links">
+      <a
+        class="fpl-landing__button fpl-landing__button--primary"
+        href="https://pond-steel-3de.notion.site/Fusion-and-Plasma-application-research-Laboratory-36dbea4215f28075b141e972ef659a9f?source=copy_link"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Visit the FPL Website
+        <span aria-hidden="true">&#8599;</span>
+      </a>
+      <a class="fpl-landing__button fpl-landing__button--secondary" href="{{ '/legacy/' | relative_url }}">
+        Previous Website
+      </a>
+    </div>
+  </section>
 
+  <section class="fpl-landing__research" aria-labelledby="fpl-research-title">
+    <p class="fpl-landing__eyebrow">Research at FPL</p>
+    <h2 id="fpl-research-title">Simulation, physics, and computation</h2>
+
+    <div class="fpl-landing__gallery">
+      <figure class="fpl-landing__research-card">
+        <div class="fpl-landing__image-wrap">
+          <img src="{{ '/assets/images/FPL-MIResearch.png' | relative_url }}" alt="Plasma transport and magnetic-island simulation results" loading="lazy" />
+        </div>
+        <figcaption>Plasma Transport &amp; Magnetic Islands</figcaption>
+      </figure>
+
+      <figure class="fpl-landing__research-card">
+        <div class="fpl-landing__image-wrap">
+          <img src="{{ '/assets/images/FPL-GkCodDev.png' | relative_url }}" alt="Parallel meshing and plasma simulation code workflow" loading="lazy" />
+        </div>
+        <figcaption>Plasma Simulation Code Development</figcaption>
+      </figure>
+    </div>
+  </section>
+</main>
